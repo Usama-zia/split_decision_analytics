@@ -235,7 +235,7 @@ Steps:
 
 ## Explore the notebook
 
-To explore the notebook file [here](https://nbviewer.org/github/semasuka/Credit-card-approval-prediction-classification/blob/main/Credit_card_approval_prediction.ipynb)
+To explore the notebook file [here](https://nbviewer.org/github/Usama-zia/split_decision_analytics/blob/main/SplitTest_Marketeer.ipynb)
 
 ## Repository structure
 
