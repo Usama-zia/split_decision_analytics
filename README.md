@@ -228,37 +228,10 @@ Prerequisites:
 A Google account (for accessing Google Colab)
 
 Steps:
-
-1. Clone the Repository using this link 'https://github.com/Usama-zia/split_decision_analytics.git'
-
-2. Open Google Colab (https://colab.research.google.com/).
-
-3. In the top left corner, click on "File" -> "Open notebook from URL".
-
-4. Paste the copied repository URL into the provided field and click "Open notebook".
-
-Mount Google Drive:
-
-1. Colab menu bar, navigate to "Runtime" -> "Change runtime type".
-
-2. Select "Python 3" (or a compatible version) and ensure a GPU or TPU is enabled if desired for faster computations (availability may vary).
-
-3. Click on "Save" to apply the changes.
-
-4. Run the following code cell in the notebook:
-
-
-```bash
-from google.colab import drive
-drive.mount('/content/drive')
-```
-Use code with caution.
-
-Follow the on-screen instructions to authenticate your Google account. This will mount your Google Drive and make it accessible within the Colab environment at the /content/drive directory.
-Run the Notebook:
-
-Click on the "Cell" menu bar option and select "Run all cells" to execute all code blocks in the notebook sequentially. Alternatively, you can press "Shift + Enter" to run a single code block at a time.
-Additional Notes:
+1. Sign into your google account.
+2. Open the Notebook using this [link](https://github.com/Usama-zia/split_decision_analytics/blob/main/SplitTest_Marketeer.ipynb)
+3. Click on "open in colab" button which will open the notebook in google colab.
+4. Click on the "Cell" menu bar option and select "Run all cells" to execute all code blocks in the notebook sequentially. Alternatively, you can press "Shift + Enter" to run a single code block at a time.
 
 ## Explore the notebook
 
